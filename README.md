@@ -1,2 +1,4 @@
-# chromatography-retention-behavior
-a series of comparisons between different proposed models to predict retention behavior
+- A series of comparisons between different proposed models to predict retention behavior
+- Comparing an original model driven from Maixma Overcome Theory with other models such as LSS, log-log, mixed-mode, quadratic and neue-kuss model
+- Comparisons are delivered in isocratic and gradient modes
+- RPLC and HILIC driven data are both tested and validated on MOT model
